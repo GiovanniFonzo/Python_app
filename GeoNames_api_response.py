@@ -1,6 +1,6 @@
 import requests
 
-USERNAME = 'gifonz'
+USERNAME = 'yourusername'
 
 # Fetch countries from GeoNames API
 def fetch_countries():
