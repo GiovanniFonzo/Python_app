@@ -5,7 +5,7 @@ import io
 
 app = Flask(__name__)
 
-USERNAME = 'gifonz'
+USERNAME = 'yourusername'
 
 def fetch_countries():
     url = f'http://api.geonames.org/countryInfoJSON?username={USERNAME}'
